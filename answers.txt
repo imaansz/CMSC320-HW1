@@ -7,3 +7,12 @@ Q2: What field could data science be applied to? Give and Example and how it mig
 
 Answer: Data science could be applied to a field like business and marketing. For example, it could be used to track a user's preferences to target ads that are relavant to them.
 
+
+Q3: What is the difference between merging and rebasing?
+
+Answer: Merging will put two branches together and create a new one, while rebasing will copy everything from one branch and put it into the other one.
+
+Q4: What skills do you hope to improve during this course?
+
+Answer: I hope to improve my skills with python and learn more about data collection and storage/management.
+
